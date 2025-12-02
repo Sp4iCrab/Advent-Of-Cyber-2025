@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>24 dias de desafios de aprendizaje en Ciberseguridad</b><br>
-  Documentacion del proceso de difernetes desafios enfocados a Linux, seguridad, redes y Hacking Etico
+  Documentacion del proceso de diferentes desafios enfocados a Linux, seguridad, redes y Hacking Etico
 </p>
 
 <p align="center">
@@ -28,7 +28,3 @@ Algunos de los temas que se van a ver durante el evento son:
 - Analisis de malware
 - Conceptos de blue team y SOC
 - Fundamentos en explotacion
-
-
-
--
