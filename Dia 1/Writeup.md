@@ -1,13 +1,13 @@
 # Dia 1 - Linux CLI - Shell Bells
 
-### Objetivo
-
-El objetivo de la primera habitacion del evento esta enfocado a la terminal de Linux, a navegar por directorios o listar archivos detro de un directorio incluido los archivos ocultos con ls -la
-
 <p align="center">
   <img src="Dia1/Paso1.png">
 </p>
 
+
+### Objetivo
+
+El objetivo de la primera habitacion del evento esta enfocado a la terminal de Linux, a navegar por directorios o listar archivos detro de un directorio incluido los archivos ocultos con ls -la
 
 ### Navegando por el desafio
 
@@ -26,8 +26,6 @@ Es una buena maquina para aprender sobre los comandos basicos en linux, estos co
 
 - Cada usuario dentro su directorio /home contiene un archivo que muestra el historial de bash, llamado .bash_history
 - La importancia de utilizar grep para encontrar informacion especifica en un archivo sin la necesidad de perderse dentro de archivos con grandes volumenes de datos
-
-
 
 
 ### Nota
