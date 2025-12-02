@@ -24,8 +24,8 @@ Es una buena maquina para aprender sobre los comandos basicos en linux, estos co
 
 ### Lecciones aprendidas
 
--Cada usuario dentro su directorio /home contiene un archivo que muestra el historial de bash, llamado .bash_history
--La importancia de utilizar grep para encontrar informacion especifica en un archivo sin la necesidad de perderse dentro de archivos con grandes volumenes de datos
+- Cada usuario dentro su directorio /home contiene un archivo que muestra el historial de bash, llamado .bash_history
+- La importancia de utilizar grep para encontrar informacion especifica en un archivo sin la necesidad de perderse dentro de archivos con grandes volumenes de datos
 
 
 
