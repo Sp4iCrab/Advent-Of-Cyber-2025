@@ -29,7 +29,7 @@ Que hacer en estos casos?
 
 A partir de aqui, la pagina guia al usuario sobre como realizar un ataque phishing, para este caso ya la habitacion le da al usuario un index.html de un login falso mas un script en python llamado server.py que se encarga de montar un servidor http y el manejo de captura de creedenciales, asi el usuario simplemente se centra en realizar los pasos correctamente.
 
-Ademas, la habitacion le presenta al usuario la herramienta Social-Engineering Toolkit o SET, la cual es una herramienta diseñada para ataques de ingenieria social, en este caso el usuario la va a utilizar para enviar diseñar y enviar el correo con la URL del login phishing.
+Ademas, la habitacion le presenta al usuario la herramienta Social-Engineering Toolkit o SET, la cual es una herramienta diseñada para ataques de ingenieria social, en este caso el usuario la va a utilizar para diseñar y enviar el correo con la URL del login phishing.
 
 
 <p align="center">
