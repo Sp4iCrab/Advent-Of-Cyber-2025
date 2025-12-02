@@ -4,7 +4,10 @@
 
 El objetivo de la primera habitacion del evento esta enfocado a la terminal de Linux, a navegar por directorios o listar archivos detro de un directorio incluido los archivos ocultos con ls -la
 
-![](images\Dia1\Paso1.png)
+<p align="center">
+  <img src="Dia1/Paso1.png">
+</p>
+
 
 ### Navegando por el desafio
 
@@ -13,9 +16,11 @@ encontrando las flags, ya sea listando archivos y archivos ocultos en un directo
 
 Es una buena maquina para aprender sobre los comandos basicos en linux, estos comandos sera de gran utilidad en el futuro para los principiantes que quieren adentrarse mas en el mundo de la ciberseguridad debido a que Linux es el OS mas utilzado en esta area.
 
-![](images\Dia1\Paso2.png)
-![](images\Dia1\Paso3.png)
-![](images\Dia1\Paso4.png)
+<p align="center">
+  <img src="Dia1/Paso2.png">
+  <img src="Dia1/Paso3.png">
+  <img src="Dia1/Paso4.png">
+</p>
 
 ### Lecciones aprendidas
 
