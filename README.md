@@ -28,3 +28,16 @@ Algunos de los temas que se van a ver durante el evento son:
 - Analisis de malware
 - Conceptos de blue team y SOC
 - Fundamentos en explotacion
+
+---
+### Write-ups Diarios
+
+Día 1 – Linux CLI – Shell Bells
+Dia1/Writeup.md
+
+Día 2 – Phishing – Merry Clickmas
+Dia2/Write.md
+
+Día 3 – Splunk Basics – Did you SIEM?
+Dia3/Writeup.md
+
