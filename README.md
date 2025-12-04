@@ -32,12 +32,16 @@ Algunos de los temas que se van a ver durante el evento son:
 ---
 ### Write-ups Diarios
 
-Día 1 – Linux CLI – Shell Bells
-Dia1/Writeup.md
+[Dia 1 – Linux CLI – Shell Bells](Dia_1/Writeup.md)
 
-Día 2 – Phishing – Merry Clickmas
-Dia2/Write.md
+[Dia 2 – Phishing – Merry Clickmas](Dia_2/Writeup.md)
 
-Día 3 – Splunk Basics – Did you SIEM?
-Dia3/Writeup.md
+[Dia 3 – Splunk Basics – Did you SIEM?](Dia_3/Writeup.md)
 
+[Dia 4 - AI in Security - old sAInt nick] ⏳
+
+[Dia 5 - IDOR - Santa’s Little IDOR] ⏳
+
+[Dia 6 - Malware Analysis - Egg-xecutable] ⏳
+
+[Dia 7 - Network Discovery - Scan-ta Clause] ⏳
