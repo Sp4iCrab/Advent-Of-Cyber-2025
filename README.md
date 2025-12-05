@@ -38,7 +38,7 @@ Algunos de los temas que se van a ver durante el evento son:
 
 [Dia 3 – Splunk Basics – Did you SIEM?](Dia_3/Writeup.md)
 
-[Dia 4 - AI in Security - old sAInt nick] ⏳
+[Dia 4 - AI in Security - old sAInt nick](Dia_4/Writeup.md)
 
 [Dia 5 - IDOR - Santa’s Little IDOR] ⏳
 
