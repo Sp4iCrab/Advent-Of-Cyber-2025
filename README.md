@@ -40,8 +40,8 @@ Algunos de los temas que se van a ver durante el evento son:
 
 [Dia 4 - AI in Security - old sAInt nick](Dia_4/Writeup.md)
 
-[Dia 5 - IDOR - Santa’s Little IDOR] ⏳
+[Dia 5 - IDOR - Santa’s Little IDOR](Dia_5/Writeup.md)
 
-[Dia 6 - Malware Analysis - Egg-xecutable] ⏳
+[Dia 6 - Malware Analysis - Egg-xecutable](Dia_6/Writeup.md)
 
 [Dia 7 - Network Discovery - Scan-ta Clause] ⏳
