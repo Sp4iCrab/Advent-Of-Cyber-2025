@@ -44,4 +44,6 @@ Algunos de los temas que se van a ver durante el evento son:
 
 [Dia 6 - Malware Analysis - Egg-xecutable](Dia_6/Writeup.md)
 
-[Dia 7 - Network Discovery - Scan-ta Clause] ⏳
+[Dia 7 - Network Discovery - Scan-ta Clause](Dia_7/Writeup.md)
+
+[Dia 8 - Prompt Injection - Sched-yule conflict](Dia_8/Writeup.md)

@@ -4,7 +4,6 @@
   <img src="Dia5/Paso1.png">
 </p>
 
-
 ### Objetivo
 
 Este dia la habitacion se enfoca en la vulnerabilidad "Insecure Direct Object Reference" o IDOR, esta vulnerabilidad es un tipo de control de acceso, que ocurre cuando alguien utiliza el input de usuario de una aplicacion para acceder a objetos directamente, por ejemplo:
