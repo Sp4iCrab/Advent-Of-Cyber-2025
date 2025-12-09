@@ -47,3 +47,5 @@ Algunos de los temas que se van a ver durante el evento son:
 [Dia 7 - Network Discovery - Scan-ta Clause](Dia_7/Writeup.md)
 
 [Dia 8 - Prompt Injection - Sched-yule conflict](Dia_8/Writeup.md)
+
+[Dia 9 - Passwords - A Cracking Christmas](Dia_9/Writeup.md)
