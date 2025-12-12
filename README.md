@@ -49,3 +49,9 @@ Algunos de los temas que se van a ver durante el evento son:
 [Dia 8 - Prompt Injection - Sched-yule conflict](Dia_8/Writeup.md)
 
 [Dia 9 - Passwords - A Cracking Christmas](Dia_9/Writeup.md)
+
+[SOC Alert Triaging - Tinsel Triage](Dia_10/Writeup.md)
+
+[Dia 11 - XSS - Merry XSSMas](Dia_11/Writeup.md)
+
+[Dia 12 - Phishing - Phishmas Greetings](Dia_12/Writeup.md)
