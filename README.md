@@ -32,25 +32,25 @@ Algunos de los temas que se van a ver durante el evento son:
 ---
 ### Write-ups Diarios
 
-[Dia 1 – Linux CLI – Shell Bells](Dia_1/Writeup.md)
+[Dia 1 – Linux CLI – Shell Bells](Dia_01/Writeup.md)
 
-[Dia 2 – Phishing – Merry Clickmas](Dia_2/Writeup.md)
+[Dia 2 – Phishing – Merry Clickmas](Dia_02/Writeup.md)
 
-[Dia 3 – Splunk Basics – Did you SIEM?](Dia_3/Writeup.md)
+[Dia 3 – Splunk Basics – Did you SIEM?](Dia_03/Writeup.md)
 
-[Dia 4 - AI in Security - old sAInt nick](Dia_4/Writeup.md)
+[Dia 4 - AI in Security - old sAInt nick](Dia_04/Writeup.md)
 
-[Dia 5 - IDOR - Santa’s Little IDOR](Dia_5/Writeup.md)
+[Dia 5 - IDOR - Santa’s Little IDOR](Dia_05/Writeup.md)
 
-[Dia 6 - Malware Analysis - Egg-xecutable](Dia_6/Writeup.md)
+[Dia 6 - Malware Analysis - Egg-xecutable](Dia_06/Writeup.md)
 
-[Dia 7 - Network Discovery - Scan-ta Clause](Dia_7/Writeup.md)
+[Dia 7 - Network Discovery - Scan-ta Clause](Dia_07/Writeup.md)
 
-[Dia 8 - Prompt Injection - Sched-yule conflict](Dia_8/Writeup.md)
+[Dia 8 - Prompt Injection - Sched-yule conflict](Dia_08/Writeup.md)
 
-[Dia 9 - Passwords - A Cracking Christmas](Dia_9/Writeup.md)
+[Dia 9 - Passwords - A Cracking Christmas](Dia_09/Writeup.md)
 
-[SOC Alert Triaging - Tinsel Triage](Dia_10/Writeup.md)
+[Dia 10 - SOC Alert Triaging - Tinsel Triage](Dia_10/Writeup.md)
 
 [Dia 11 - XSS - Merry XSSMas](Dia_11/Writeup.md)
 
