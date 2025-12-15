@@ -55,3 +55,7 @@ Algunos de los temas que se van a ver durante el evento son:
 [Dia 11 - XSS - Merry XSSMas](Dia_11/Writeup.md)
 
 [Dia 12 - Phishing - Phishmas Greetings](Dia_12/Writeup.md)
+
+[Dia 13 - YARA Rules - YARA mean one!](Dia_13/Writeup.md)
+
+[Dia 14 - Containers - DoorDasher's Demise](Dia_14/Writeup.md)
