@@ -24,7 +24,7 @@ Tambien se introduce el uso de contenedores en arquitecturas de microservicios, 
 
 Finalmente, se presenta Docker como uno de los motores de contenedores mas utilizados, docker se encarga de construir, ejecutar y administrar contenedores mediante imagenes compuestas por capas, se menciona ademas el concepto de escape de contenedor, que ocurre cuando un proceso dentro de un contenedor logra acceder a recursos del sistema anfitrion o a otros contenedores, generalmente debido a configuraciones inseguras como el acceso al socket de Docker.
 
-Luego de la parte teorica la habitacion le presenta un desafio guiado al usuario, en este reto, el usuario debe analizar un entorno con multiples contenedores, identificar configuraciones inseguras y comprender como un atacante podria abusar de ellas. El objetivo principal es reforzar el entendimiento de los riesgos asociados a una mala configuracion de contenedores
+Luego de la parte teorica la habitacion le presenta un desafio guiado al usuario, en este reto, el usuario debe analizar un entorno con multiples contenedores, identificar configuraciones inseguras y comprender como un atacante podria abusar de ellas, el objetivo principal es reforzar el entendimiento de los riesgos asociados a una mala configuracion de contenedores
 
 <p align="center">
   <img src="Dia14/Paso2.png">
