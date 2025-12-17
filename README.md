@@ -29,6 +29,10 @@ Algunos de los temas que se van a ver durante el evento son:
 - Conceptos de blue team y SOC
 - Fundamentos en explotacion
 
+# Nota
+
+Las flags de las habitaciones se mostraran una vez finalizado el evento, no se encuentran dentro de los writeups por el momento.
+
 ---
 ### Write-ups Diarios
 
@@ -61,3 +65,7 @@ Algunos de los temas que se van a ver durante el evento son:
 [Dia 14 - Containers - DoorDasher's Demise](Dia_14/Writeup.md)
 
 [Dia 15 - Web Attack Forensics - Drone Alone](Dia_15/Writeup.md)
+
+[Dia 16 - Forensics - Registry Furensics](Dia_16/Writeup.md)
+
+[Dia 17 - CyberChef - Hoperation Save McSkidy](Dia_17/Writeup.md )
