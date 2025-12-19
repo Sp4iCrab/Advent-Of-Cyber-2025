@@ -69,3 +69,7 @@ Las flags de las habitaciones se mostraran una vez finalizado el evento, no se e
 [Dia 16 - Forensics - Registry Furensics](Dia_16/Writeup.md)
 
 [Dia 17 - CyberChef - Hoperation Save McSkidy](Dia_17/Writeup.md )
+
+[Dia 18 - Obfuscation - The Egg Shell File](Dia_18/Writeup.md)
+
+[Dia 19 - ICS/Modbus - Claus for Concern](Dia_19/Writeup.md)
