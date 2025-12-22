@@ -73,3 +73,9 @@ Las flags de las habitaciones se mostraran una vez finalizado el evento, no se e
 [Dia 18 - Obfuscation - The Egg Shell File](Dia_18/Writeup.md)
 
 [Dia 19 - ICS/Modbus - Claus for Concern](Dia_19/Writeup.md)
+
+[Dia 20 - Race Conditions - Toy to The World](Dia_20/Writeup.md)
+
+[Dia 21 - Malware Analysis - Malhare.exe](Dia_21/Writeup.md)
+
+[Dia 22 - C2 Detection - Command & Carol](Dia_22/Writeup.md)
