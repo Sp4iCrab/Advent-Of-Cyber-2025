@@ -36,3 +36,16 @@ En el apartado practico el usuario tiene que usar un analisis de trafico de red 
 <p align="center">
   <img src="Dia22/Paso5.png">
 </p>
+
+
+### Lecciones aprendidas
+
+- El analisis de trafico de red es una pieza clave para detectar comunicaciones de Command and Control incluso cuando el contenido esta cifrado.
+
+- RITA permite identificar comportamientos anormales mediante el analisis de patrones, no solo por firmas o reglas estaticas.
+
+- Convertir PCAPs a logs de Zeek facilita el analisis al transformar trafico crudo en informacion estructurada y enriquecida.
+
+- No todas las amenazas tienen una severidad alta, incluso eventos con bajo puntaje pueden ser indicadores de compromiso.
+
+- El contexto y el analisis humano siguen siendo fundamentales para interpretar correctamente los resultados de herramientas automaticas.
