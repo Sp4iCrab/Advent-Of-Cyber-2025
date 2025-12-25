@@ -79,3 +79,7 @@ Las flags de las habitaciones se mostraran una vez finalizado el evento, no se e
 [Dia 21 - Malware Analysis - Malhare.exe](Dia_21/Writeup.md)
 
 [Dia 22 - C2 Detection - Command & Carol](Dia_22/Writeup.md)
+
+[Dia 23 - AWS Security - S3cret Santa](Dia_23/Writeup.md)
+
+[Dia 24 - Exploitation with cURL - Hoperation Eggsploit](Dia_24/Writeup.md)
